@@ -1,0 +1,1 @@
+ D:\\Projekan\\guruji-master\ (1)\\guruji-master\\.dart_tool\\flutter_build\\446a460884827dcfd62a3626668bd5f8\\native_assets.yaml: 

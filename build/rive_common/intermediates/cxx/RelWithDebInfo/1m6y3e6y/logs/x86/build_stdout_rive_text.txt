@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\izaz\AppData\Local\Pub\Cache\hosted\pub.dev\rive_common-0.4.15\android\.cxx\RelWithDebInfo\1m6y3e6y\x86'
+ninja: no work to do.
